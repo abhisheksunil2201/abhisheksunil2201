@@ -2,7 +2,7 @@
 <br>
 
 **Skills**
-- Programming Languages: TypeScript, Python, Rust
+- Programming Languages: TypeScript, Python, Rust, Go
 - Frameworks/Platforms/etc: React, Next.js, Docker, MongoDB, Git, Firebase, GraphQL etc.
 
 
